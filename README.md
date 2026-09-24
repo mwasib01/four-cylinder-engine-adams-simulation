@@ -100,6 +100,7 @@ The ADAMS model provides:
 - Multibody dynamic response
 
 Provided in figures directory
+
 ---
 
 # Results
