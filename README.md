@@ -99,10 +99,7 @@ The ADAMS model provides:
 - Connecting rod motion analysis
 - Multibody dynamic response
 
-Example ADAMS output:
-
-![ADAMS Model Geometry](figures/four_cylinder_engine_points_and_model.png)
-
+Provided in figures directory
 ---
 
 # Results
