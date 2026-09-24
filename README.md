@@ -1,6 +1,6 @@
 # Four Cylinder Inline Engine Dynamics Simulation using ADAMS/View
 
-![ADAMS Engine Model](figures/four_cylinder_engine_points_and_model.png)
+![ADAMS Engine Model](figures/6d71903b-9a84-4c48-9bd4-7be68ebd15e8.png)
 
 ## Overview
 
