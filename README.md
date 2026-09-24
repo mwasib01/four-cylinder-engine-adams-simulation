@@ -98,9 +98,6 @@ The ADAMS model provides:
 - Acceleration comparison
 - Connecting rod motion analysis
 - Multibody dynamic response
-
-Provided in figures directory
-
 ---
 
 # Results
